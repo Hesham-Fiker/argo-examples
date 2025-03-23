@@ -1,6 +1,6 @@
 appName: myhelmapp
 
-port: 5000
+port: 80
 
 configmap:
   name: myhelmapp-configmap-v1
@@ -9,4 +9,4 @@ configmap:
 
 image:
   name: devopsjourney1/mywebapp
-  tag: 47
+  tag: lumigo2
